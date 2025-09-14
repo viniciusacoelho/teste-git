@@ -12,3 +12,4 @@ Comandos de revisão
 - git merge [commit, tag, branch]
 - git remote add nome-repositorio-nuvem/origin url
 - git push
+- git clone
