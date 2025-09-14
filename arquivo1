@@ -11,3 +11,4 @@ Comandos de revisão
 - git checkout [hash, branch, tag] (Sai de uma versão paraa outra)
 - git merge [commit, tag, branch]
 - git remote add nome-repositorio-nuvem/origin url
+- git push
