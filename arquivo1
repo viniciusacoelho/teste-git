@@ -10,3 +10,4 @@ Comandos de revisão
 - git clean -df/fd (Apaga files e directories/os arquivos novos não reconhecidos no nosso repositório)
 - git checkout [hash, branch, tag] (Sai de uma versão paraa outra)
 - git merge [commit, tag, branch]
+- git remote add nome-repositorio-nuvem/origin url
