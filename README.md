@@ -9,6 +9,6 @@
 [CESMAC](https://cesmac.com.br)
 
 Trecho de Código:
-'''
+````
 git init
-'''
+````
