@@ -4,3 +4,8 @@ Comandos de revisão
 - git add -A (Adiciona todas as modificações para serem salvas)
 - git commit -m "Texto" (Salva as modificações)
 - git log (Vemos o histórico de modificações)
+- git status (Verifica o estado dos arquivos criados ou modificados ou deletados)
+- git checkout (Vai de um ponto para o outro)
+- git checkout . (Apaga as modificações dos arquivos já salvos/resonhecidos no repositório)
+- git clean -df/fd (Apaga files e directories/os arquivos novos não reconhecidos no nosso repositório)
+- git checkout [hash, branch, tag] (Sai de uma versão paraa outra)
